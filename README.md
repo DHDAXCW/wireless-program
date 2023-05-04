@@ -1,5 +1,7 @@
 # wireless-program
 
+# AW7916-NPD专用固件驱动
+
 ### mt76-boss：20230424212218
 ```
 接收速率：2401.9 Mbit/s, 160MHz, HE-MCS 11, HE-NSS 2
